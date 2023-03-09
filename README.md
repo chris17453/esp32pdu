@@ -13,7 +13,7 @@
 ![top-shot](assets/esp32pdu-top-shot.jpg)
 ![bottom-shot](assets/esp32pdu-bottom-shot.jpg)
 ![power-shot](assets/esp32pdu-power-shot.jpg)
-![mainboard-shot](assets/mainboard-shot.jpg)
+![mainboard-shot](assets/mainboard.jpg)
 
 ## Assembly
 ![top](assets/assembly-top.jpg)
