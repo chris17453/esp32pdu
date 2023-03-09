@@ -5,6 +5,7 @@
 - work in progress. I'll update when something is actionable
 
 ## STL
+![STL](assets/stl.png)
 - the stl's are in the STL directory
 - original files for editing can be found on [tinkercad](https://www.tinkercad.com/things/9jzXw5aUbPw)
 
